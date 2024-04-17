@@ -56,5 +56,6 @@ Transaction tables store dynamic data that is frequently updated as part of regu
 ### <ins>REST APIs:</ins>
 
  - Attaching collection from postman to test the REST APIs for tenant verification application.
+   
 [Tenant Verification.postman_collection.json](https://github.com/anitasharma2007/Citizen_Tenant_Verification_Backend/files/15007058/Tenant.Verification.postman_collection.json)
 
